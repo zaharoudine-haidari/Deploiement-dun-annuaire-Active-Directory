@@ -1,4 +1,4 @@
-# création et mise en place d'un n'annuaire active directory
+# creation et mise en place d'un n'annuaire active directory
 
 
 # Projet Active Directory
